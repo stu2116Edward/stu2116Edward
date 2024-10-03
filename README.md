@@ -1,9 +1,8 @@
 ## Hi 👋,I'm EdwardHu
-<table>
-  <tr>
-    <td align="center">I am a network engineer for Cisco and Huawei, and I am from China</td>
-  </tr>
-</table>
+<div style="text-align: center;">
+I am a network engineer for Cisco and Huawei, and I am from China
+</div>  
+
 <!--
 **stu2116Edward/stu2116Edward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
