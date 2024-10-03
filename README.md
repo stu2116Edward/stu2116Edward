@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋,I'm EdwardHu
+<div style="text-align: center;">I am a network engineer for Cisco and Huawei, and I am from China</div>
 <!--
 **stu2116Edward/stu2116Edward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=stu2116Edward&show_icons=true&theme=transparent)
+![Visitor Count](https://profile-counter.glitch.me/stu2116Edward/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stu2116Edward&layout=compact&theme=tokyonight)
+
