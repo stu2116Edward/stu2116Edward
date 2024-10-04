@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: **Interesting Docker project**
 - 🌱 I’m currently learning: **C/C++**
 - 📫 How to reach me: **stu2116hhr@outlook.com**
-- 📝 I regularly write articles on: [https://www.edwardhu.run]()
+- 📝 I regularly write articles on: [My Blog](https://www.edwardhu.run)
 - 💬 Ask me about: **H5, Java, Python, Cisco, Huawei**
 - ⚡ Fun fact: **Hair volume determines wisdom**
 <!-- 
