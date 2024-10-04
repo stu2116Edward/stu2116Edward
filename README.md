@@ -1,6 +1,5 @@
-## Hi 👋,I'm EdwardHu
-**I am a network engineer for Cisco and Huawei, and I am from China**
-
+<h1 align='center'> Hi 👋, I'm EdwardHu </h1>
+<h3 align='center'> I am a network engineer for Cisco and Huawei, and I am from China </h3>
 
 - 🔭 I’m currently working on: **Interesting Docker project**
 - 🌱 I’m currently learning: **C/C++**
