@@ -20,6 +20,6 @@
 <img src="https://komarev.com/ghpvc/?username=stu2116Edward&abbreviated=true" />
 
 ![](https://github-readme-stats.vercel.app/api?username=stu2116Edward&show_icons=true&theme=transparent)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stu2116Edward&theme=transparent&hide_border=%E5%81%87" alt="GitHub Streak" /></a>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stu2116Edward&layout=compact&theme=transparent)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stu2116Edward&theme=transparent&hide_border=%E5%81%87" alt="GitHub Streak" /></a>
