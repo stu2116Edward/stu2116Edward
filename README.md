@@ -16,8 +16,10 @@
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 😄 Pronouns: ...
--->
+
 <img src="https://komarev.com/ghpvc/?username=stu2116Edward&abbreviated=true" />
+-->
+![](https://count.getloli.com/@Edward%20Hu?name=Edward+Hu&theme=gelbooru&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto)
 
 ![](https://github-readme-stats.vercel.app/api?username=stu2116Edward&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stu2116Edward&layout=compact&theme=transparent)
