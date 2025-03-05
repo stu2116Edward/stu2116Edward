@@ -8,10 +8,11 @@
 
 - 🔭 I’m currently working on: **Interesting Docker project**
 - 🌱 I’m currently learning: **C/C++**
-- 📫 How to reach me: **ryolenhealthmawar@mail.com**
+- 📫 How to reach me: **stu2116edward@outlook.com**
 - 📝 I regularly write articles on: [My Blog](https://www.stu2116edward.run)
 - 💬 Ask me about: **H5, Java, Python, Cisco, Huawei**
 - ⚡ Fun fact: **Hair volume determines wisdom**
+- 📚 Educational experience: **Jinhua No. 1 Secondary Vocational School**、 **Jiaxing Vocational and Technical College**
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
