@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on: [My Blog](https://www.stu2116edward.run)
 - 💬 Ask me about: **H5, Java, Python, Cisco, Huawei**
 - ⚡ Fun fact: **Hair volume determines wisdom**
-- 📚 Educational experience: [**Jinhua No. 1 Secondary Vocational School**](https://www.jh-school.cn)、 [**Jiaxing Vocational and Technical College**](https://www.jxvtc.edu.cn)
+- 📚 Educational experience: <a href="https://www.jh-school.cn" target="_blank">**Jinhua No. 1 Secondary Vocational School**</a>、<a href="https://www.jxvtc.edu.cn" target="_blank">**Jiaxing Vocational and Technical College**</a>
 - 🧑‍🏫 Mentor：Yue Qian, Yingbo Zhu, Liping Wu, Xiangyuan Kong, Jin Liu, Helin Zhuang, Yufei Sun, Yunhui Zhang, Zhebiao Chen, Shuang Jin
 <!-- 
 - 👯 I’m looking to collaborate on ... 
