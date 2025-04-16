@@ -13,7 +13,7 @@
 - 💬 Ask me about: **H5, Java, Python, Cisco, Huawei**
 - ⚡ Fun fact: **Hair volume determines wisdom**
 - 📚 Educational experience: [**Jinhua No. 1 Secondary Vocational School**](https://www.jh-school.cn)、[**Jiaxing Vocational and Technical College**](https://www.jxvtc.edu.cn)
-- 🧑‍🏫 Mentor：Yue Qian, Yingbo Zhu, Liping Wu, Xiangyuan Kong, Jin Liu, Helin Zhuang, Yufei Sun, Yunhui Zhang, Zhebiao Chen, Shuang Jin, Ye Chenglin
+- 🧑‍🏫 Mentor：Yue Qian, Yingbo Zhu, Liping Wu, Xiangyuan Kong, Jin Liu, Helin Zhuang, Yufei Sun, Yunhui Zhang, Zhebiao Chen, Shuang Jin, Chenglin Ye  
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
