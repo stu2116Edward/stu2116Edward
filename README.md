@@ -10,14 +10,14 @@
 </div>
 
 <p align="center">
-  <samp>Network Engineer · Cisco & Huawei Certified · China 🇨🇳</samp>
+  <samp>Network Engineer · Cisco & Huawei Certified · China</samp>
 </p>
 
 ---
 
 ### 🚀 关于我 / About Me
 
-| 🇨🇳 中文 | 🇬🇧 English |
+| 中文 | English |
 |:---|:---|
 | 🔭 正在做有趣的 **Docker 项目** | 🔭 Working on **Docker projects** |
 | 🌱 学习 **C/C++** | 🌱 Learning **C/C++** |
