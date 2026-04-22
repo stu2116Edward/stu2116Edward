@@ -82,4 +82,21 @@
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/-CloudFlare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![LeanCloud](https://img.shields.io/badge/-LeanCloud-2496F5?style=flat-square&logo=leancloud&logoColor=white)
+
+### 🔧 Tools
+![ZeroTier](https://img.shields.io/badge/-ZeroTier-1C6EAD?style=flat-square&logo=zerotier&logoColor=white)
+![TailScale](https://img.shields.io/badge/-TailScale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+
+### 📚 Knowledge
+![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![BiliBili](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
+![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![知乎](https://img.shields.io/badge/-知乎-0084FF?style=flat-square&logo=zhihu&logoColor=white)
+![Wikipedia](https://img.shields.io/badge/-Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)
