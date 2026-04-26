@@ -30,8 +30,8 @@
 <details>
 <summary>📚 教育经历 / Education</summary>
 
-- **金华市第一中等职业学校** · [官网](https://www.jh-school.cn)
-- **嘉兴职业技术学院** · [官网](https://www.jxvtc.edu.cn)
+- **金华市第一中等职业学校 / Jinhua No. 1 Secondary Vocational School** · [官网](https://www.jh-school.cn)
+- **嘉兴职业技术学院 / Jiaxing Vocational and Technical College** · [官网](https://www.jxvtc.edu.cn)
 
 **导师 / Mentors:** Yue Qian, Yingbo Zhu, Liping Wu, Xiangyuan Kong, Jin Liu, Helin Zhuang, Yufei Sun, Yunhui Zhang, Zhebiao Chen, Shuang Jin, Chenglin Ye
 </details>
