@@ -22,7 +22,7 @@
 | 🔭 正在做有趣的 **Docker 项目** | 🔭 Working on **Docker projects** |
 | 🌱 学习 **C/C++** | 🌱 Learning **C/C++** |
 | 💬 欢迎交流：**H5, Java, Python, Cisco, Huawei** | 💬 Ask me about: **H5, Java, Python, Cisco, Huawei** |
-| 📝 博客：[stu2116edwardhu.xyz](https://www.stu2116edwardhu.xyz) | 📝 Blog: [stu2116edwardhu.xyz](https://www.stu2116edwardhu.xyz) |
+| 📝 博客：[www.05272116.xyz](https://blog.05272116.xyz) | 📝 Blog: [www.05272116.xyz](https://blog.05272116.xyz) |
 | 📫 邮箱：[stu2116edward@outlook.com](mailto:stu2116edward@outlook.com) | 📫 Email: [stu2116edward@outlook.com](mailto:stu2116edward@outlook.com) |
 
 > ⚡ **Fun fact:** *Hair volume determines wisdom* 🧠
